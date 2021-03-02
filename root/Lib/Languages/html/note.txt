@@ -1,0 +1,7 @@
+Markup Language: là 1 system dùng để chú thích cho documents theo 1 cách có thể phân biệt được đâu là cú pháp, đâu là nội dung.
+
+Nghĩa là khi xử lý(render) documents đó thì Markup Language sẽ không được hiển thị ra và chỉ được dùng để định dạng cách hiển thị của nội dung.
+
+Có 2 loại Markup Language:
+	- 1. Các TAG sử dụng trong documents, được người dùng tự khai báo. Ví dụ XML
+	- 2. Các TAG sử dụng trong documents, chỉ được sử dụng những TAG đã được khai báo trước. Ví dụ: HTML
